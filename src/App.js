@@ -31,7 +31,7 @@ export default function App() {
       <nav className="navbar navbar-dark bg-primary mb-2">
         <span className="navbar-brand mb-0 h1">QR Code Generator</span>
       </nav>
-      <form onSubmit={} className="px-4">
+      <form className="px-4">
         <div class="form-group row">
           <input onChange={updateText} type="text" className="col-sm-12 form-control form-control-lg" placeholder="Type any text ..." value={text} />
         </div>
