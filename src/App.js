@@ -27,7 +27,7 @@ export default function App() {
   // }
 
   return (
-    <div>
+    <div className="App">
       <nav className="navbar navbar-dark bg-primary mb-2">
         <span className="navbar-brand mb-0 h1">QR Code Generator</span>
       </nav>
